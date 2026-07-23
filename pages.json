@@ -1,12 +1,18 @@
 {
   "project": "testing123",
-  "latestNumber": 1,
+  "latestNumber": 2,
   "pages": [
     {
       "number": 1,
       "path": "index.html",
       "title": "עמוד נסיון 1",
       "background": "#16697a"
+    },
+    {
+      "number": 2,
+      "path": "page-2.html",
+      "title": "עמוד נסיון 2",
+      "background": "#5b2a86"
     }
   ]
 }
